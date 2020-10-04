@@ -1,3 +1,4 @@
+This is a simpel To-Do-App with only React & Node.js. 
 
 ## Quick Start
 
